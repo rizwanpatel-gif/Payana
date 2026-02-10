@@ -1,0 +1,19 @@
+# Compiled class files
+build/
+dist/
+
+# NetBeans project files
+nbproject/private/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
